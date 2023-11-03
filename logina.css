@@ -1,0 +1,31 @@
+	html{
+min-height: 100%;
+display: grid;
+}
+
+body{
+	background-color: #ECEEF0;
+margin: auto;
+}
+
+.box {
+	border-width: 200px;
+	background-color: white;
+	margin: 50px;
+	padding: 140px 90px 90px 90px;
+	align-content: center;
+box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;}
+
+.box #text{
+	  width: 86%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+h3{
+	margin-top: px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
